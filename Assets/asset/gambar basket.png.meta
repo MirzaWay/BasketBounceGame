@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 07402fe002cf58a40a15d11acbd69e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3257306641800582038
+    second: gambar basket_0
+  - first:
+      213: -1390314434899842016
+    second: gambar basket_1
+  - first:
+      213: 7999242972036147462
+    second: gambar basket_2
+  - first:
+      213: 5693842001386198674
+    second: gambar basket_3
+  - first:
+      213: -7494993326343930512
+    second: gambar basket_4
+  - first:
+      213: 477801811725368701
+    second: gambar basket_5
+  - first:
+      213: 3854476085543243405
+    second: gambar basket_6
+  - first:
+      213: 1226885955049363406
+    second: gambar basket_7
+  - first:
+      213: 8264101757768233008
+    second: gambar basket_8
+  - first:
+      213: 4878852636573725634
+    second: gambar basket_9
+  - first:
+      213: -3684016716900550902
+    second: gambar basket_10
+  - first:
+      213: 9122754899946793879
+    second: gambar basket_11
+  - first:
+      213: 5885630534618173607
+    second: gambar basket_12
+  - first:
+      213: 6965282550318739657
+    second: gambar basket_13
+  - first:
+      213: -1040481676883283169
+    second: gambar basket_14
+  - first:
+      213: -2105994454106659790
+    second: gambar basket_15
+  - first:
+      213: -2711645555541757833
+    second: gambar basket_16
+  - first:
+      213: 5112401709475462420
+    second: gambar basket_17
+  - first:
+      213: 3178021663709780138
+    second: gambar basket_18
+  - first:
+      213: 7323172450971091548
+    second: gambar basket_19
+  - first:
+      213: 6269010612470409093
+    second: gambar basket_20
+  - first:
+      213: -1916627635882201788
+    second: gambar basket_21
+  - first:
+      213: 293035390131954796
+    second: gambar basket_22
+  - first:
+      213: 970924970392688568
+    second: gambar basket_23
+  - first:
+      213: 7067818526716303208
+    second: gambar basket_24
+  - first:
+      213: 7883882440499596013
+    second: gambar basket_25
+  - first:
+      213: 3697958352347639834
+    second: gambar basket_26
+  - first:
+      213: 845978655275135712
+    second: gambar basket_27
+  - first:
+      213: 9138516992016831912
+    second: gambar basket_28
+  - first:
+      213: -2423515663297897114
+    second: gambar basket_29
+  - first:
+      213: 5131577412543890991
+    second: gambar basket_30
+  - first:
+      213: 5668171150678379273
+    second: gambar basket_31
+  - first:
+      213: -5011339634648613014
+    second: gambar basket_32
+  - first:
+      213: -4782261729322519293
+    second: gambar basket_33
+  - first:
+      213: -3927454557586559733
+    second: gambar basket_34
+  - first:
+      213: -7678404264270039360
+    second: gambar basket_35
+  - first:
+      213: -708260084574598560
+    second: gambar basket_36
+  - first:
+      213: 2995813956554168048
+    second: gambar basket_37
+  - first:
+      213: -4042283021513658128
+    second: gambar basket_38
+  - first:
+      213: 1789903046469555753
+    second: gambar basket_39
+  - first:
+      213: 2188418020089166354
+    second: gambar basket_40
+  - first:
+      213: -889361549332314019
+    second: gambar basket_41
+  - first:
+      213: 1659508070292407345
+    second: gambar basket_42
+  - first:
+      213: -88634061650339256
+    second: gambar basket_43
+  - first:
+      213: -7436411003229229559
+    second: gambar basket_44
+  - first:
+      213: 4379771526293774151
+    second: gambar basket_45
+  - first:
+      213: 605504323488097692
+    second: gambar basket_46
+  - first:
+      213: -9111985245890325036
+    second: gambar basket_47
+  - first:
+      213: -7547468542230474790
+    second: gambar basket_48
+  - first:
+      213: 8802664693482749206
+    second: gambar basket_49
+  - first:
+      213: -4293233240504392359
+    second: gambar basket_50
+  - first:
+      213: 848580104872467966
+    second: gambar basket_51
+  - first:
+      213: 4745858539911430176
+    second: gambar basket_52
+  - first:
+      213: -2511959067701865674
+    second: gambar basket_53
+  - first:
+      213: 2467598481938366962
+    second: gambar basket_54
+  - first:
+      213: 8817695443695701209
+    second: gambar basket_55
+  - first:
+      213: -678994498183055086
+    second: gambar basket_56
+  - first:
+      213: 1323023628687847310
+    second: gambar basket_57
+  - first:
+      213: -7149005061871139536
+    second: gambar basket_58
+  - first:
+      213: 4742146095324124679
+    second: gambar basket_59
+  - first:
+      213: -838805643506022092
+    second: gambar basket_60
+  - first:
+      213: 1409586178859847890
+    second: gambar basket_61
+  - first:
+      213: -3727170000850231601
+    second: gambar basket_62
+  - first:
+      213: -9060255850653457141
+    second: gambar basket_63
+  - first:
+      213: -7619605383994107603
+    second: gambar basket_64
+  - first:
+      213: -6488143246681832
+    second: gambar basket_65
+  - first:
+      213: -6898388593872064173
+    second: gambar basket_66
+  - first:
+      213: -2273187106442233280
+    second: gambar basket_67
+  - first:
+      213: 4147487325468527745
+    second: gambar basket_68
+  - first:
+      213: 948045847616691072
+    second: gambar basket_69
+  - first:
+      213: -7417034599334979330
+    second: gambar basket_70
+  - first:
+      213: 439681154051280099
+    second: gambar basket_71
+  - first:
+      213: -5899613612251480409
+    second: gambar basket_72
+  - first:
+      213: 2616286372417118614
+    second: gambar basket_73
+  - first:
+      213: 5998180238609051403
+    second: gambar basket_74
+  - first:
+      213: -53487814721178872
+    second: gambar basket_75
+  - first:
+      213: 8846777172513891428
+    second: gambar basket_76
+  - first:
+      213: -6727912337006882941
+    second: gambar basket_77
+  - first:
+      213: -8556121968745618994
+    second: gambar basket_78
+  - first:
+      213: -3261321577543307799
+    second: gambar basket_79
+  - first:
+      213: -7610450384925852829
+    second: gambar basket_80
+  - first:
+      213: -8259234660674969386
+    second: gambar basket_81
+  - first:
+      213: -1184679995107750652
+    second: gambar basket_82
+  - first:
+      213: 7982913046670898649
+    second: gambar basket_83
+  - first:
+      213: -6705549833426905698
+    second: gambar basket_84
+  - first:
+      213: 4999872272271048599
+    second: gambar basket_85
+  - first:
+      213: -4519718401018325509
+    second: gambar basket_86
+  - first:
+      213: 8595990175932930011
+    second: gambar basket_87
+  - first:
+      213: -4768984715567510615
+    second: gambar basket_88
+  - first:
+      213: 4589586407573369326
+    second: gambar basket_89
+  - first:
+      213: -6070390848238349238
+    second: gambar basket_90
+  - first:
+      213: -3784062017693167880
+    second: gambar basket_91
+  - first:
+      213: 3220428521377421469
+    second: gambar basket_92
+  - first:
+      213: 6396178008657511540
+    second: gambar basket_93
+  - first:
+      213: 5065401710040990436
+    second: gambar basket_94
+  - first:
+      213: -6491968877626712886
+    second: gambar basket_95
+  - first:
+      213: -3957386030166011151
+    second: gambar basket_96
+  - first:
+      213: -1531210529652170215
+    second: gambar basket_97
+  - first:
+      213: -7532340668459530238
+    second: gambar basket_98
+  - first:
+      213: 417510265400223626
+    second: gambar basket_99
+  - first:
+      213: 4524037947020791038
+    second: gambar basket_100
+  - first:
+      213: -5405585167600301236
+    second: gambar basket_101
+  - first:
+      213: 6787196424874579032
+    second: gambar basket_102
+  - first:
+      213: 2773958555541491
+    second: gambar basket_103
+  - first:
+      213: -3967709566390502916
+    second: gambar basket_104
+  - first:
+      213: 6574789851991077400
+    second: gambar basket_105
+  - first:
+      213: 9210539839758980847
+    second: gambar basket_106
+  - first:
+      213: -5849234274554349203
+    second: gambar basket_107
+  - first:
+      213: -8703999453157184887
+    second: gambar basket_108
+  - first:
+      213: 4935848908997440611
+    second: gambar basket_109
+  - first:
+      213: -40876007452761880
+    second: gambar basket_110
+  - first:
+      213: 744393817039406266
+    second: gambar basket_111
+  - first:
+      213: -60957495339196358
+    second: gambar basket_112
+  - first:
+      213: -7635838492942466793
+    second: gambar basket_113
+  - first:
+      213: -7310502213267325482
+    second: gambar basket_114
+  - first:
+      213: 6039344069631589315
+    second: gambar basket_115
+  - first:
+      213: -5391710223185172608
+    second: gambar basket_116
+  - first:
+      213: 489370691062744808
+    second: gambar basket_117
+  - first:
+      213: 3567906995562290646
+    second: gambar basket_118
+  - first:
+      213: -7283332950502730955
+    second: gambar basket_119
+  - first:
+      213: 4448951439736791910
+    second: gambar basket_120
+  - first:
+      213: 4887523389309262819
+    second: gambar basket_121
+  - first:
+      213: -1732645192868532316
+    second: gambar basket_122
+  - first:
+      213: 9094545666694072742
+    second: gambar basket_123
+  - first:
+      213: -7532582363190941085
+    second: gambar basket_124
+  - first:
+      213: -2936006683019695958
+    second: gambar basket_125
+  - first:
+      213: 1377841286749375779
+    second: gambar basket_126
+  - first:
+      213: 8705640654710264712
+    second: gambar basket_127
+  - first:
+      213: 256237777919033885
+    second: gambar basket_128
+  - first:
+      213: -8810444402423692794
+    second: gambar basket_129
+  - first:
+      213: 3322012016523914422
+    second: gambar basket_130
+  - first:
+      213: 1067408115617174416
+    second: gambar basket_131
+  - first:
+      213: 1112517278268699352
+    second: gambar basket_132
+  - first:
+      213: 1025933278207574408
+    second: gambar basket_133
+  - first:
+      213: 7114262430187638408
+    second: gambar basket_134
+  - first:
+      213: 6348502465614599560
+    second: gambar basket_135
+  - first:
+      213: -5100598477183234904
+    second: gambar basket_136
+  - first:
+      213: -3087624968248279850
+    second: gambar basket_137
+  - first:
+      213: -5402022431650961236
+    second: gambar basket_138
+  - first:
+      213: -118045859507626381
+    second: gambar basket_139
+  - first:
+      213: -3004574639474348883
+    second: gambar basket_140
+  - first:
+      213: 3345396632819957840
+    second: gambar basket_141
+  - first:
+      213: 3018101721630498749
+    second: gambar basket_142
+  - first:
+      213: 3687817761844957819
+    second: gambar basket_143
+  - first:
+      213: 4341163108341640593
+    second: gambar basket_144
+  - first:
+      213: -3024456685348297536
+    second: gambar basket_145
+  - first:
+      213: -4320128301079931009
+    second: gambar basket_146
+  - first:
+      213: -7837744427305509887
+    second: gambar basket_147
+  - first:
+      213: -4690907017795927322
+    second: gambar basket_148
+  - first:
+      213: 1123998783231577795
+    second: gambar basket_149
+  - first:
+      213: 4851762407901766342
+    second: gambar basket_150
+  - first:
+      213: -2370486670484819521
+    second: gambar basket_151
+  - first:
+      213: 8263413962349999235
+    second: gambar basket_152
+  - first:
+      213: 2233264136466005711
+    second: gambar basket_153
+  - first:
+      213: 7596687615208318050
+    second: gambar basket_154
+  - first:
+      213: -3754876360030697180
+    second: gambar basket_155
+  - first:
+      213: 4884771249662838778
+    second: gambar basket_156
+  - first:
+      213: 604833003326347152
+    second: gambar basket_157
+  - first:
+      213: -2889548357725917550
+    second: gambar basket_158
+  - first:
+      213: -5359432185239656036
+    second: gambar basket_159
+  - first:
+      213: -6829691312110754499
+    second: gambar basket_160
+  - first:
+      213: 3218697523997819650
+    second: gambar basket_161
+  - first:
+      213: 6205132209228967364
+    second: gambar basket_162
+  - first:
+      213: 7127751364461146346
+    second: gambar basket_163
+  - first:
+      213: -6563629149919651419
+    second: gambar basket_164
+  - first:
+      213: 168098734479295864
+    second: gambar basket_165
+  - first:
+      213: -6268571329093062333
+    second: gambar basket_166
+  - first:
+      213: 2140709657255066217
+    second: gambar basket_167
+  - first:
+      213: 1631823217057750961
+    second: gambar basket_168
+  - first:
+      213: -5514810740684240141
+    second: gambar basket_169
+  - first:
+      213: 6619181846550454075
+    second: gambar basket_170
+  - first:
+      213: -6908704209915526466
+    second: gambar basket_171
+  - first:
+      213: 1322456725185953981
+    second: gambar basket_172
+  - first:
+      213: 301915752673936158
+    second: gambar basket_173
+  - first:
+      213: -7179520587611790492
+    second: gambar basket_174
+  - first:
+      213: 7522722986753869331
+    second: gambar basket_175
+  - first:
+      213: 2310713744471830717
+    second: gambar basket_176
+  - first:
+      213: 8448044059749501704
+    second: gambar basket_177
+  - first:
+      213: -6886110108334636684
+    second: gambar basket_178
+  - first:
+      213: -3343846996120186202
+    second: gambar basket_179
+  - first:
+      213: 3246042443632136873
+    second: gambar basket_180
+  - first:
+      213: 2849803525231142716
+    second: gambar basket_181
+  - first:
+      213: 7029662604871523712
+    second: gambar basket_182
+  - first:
+      213: -1878638209888957332
+    second: gambar basket_183
+  - first:
+      213: -754147758265787591
+    second: gambar basket_184
+  - first:
+      213: 1618358097518834394
+    second: gambar basket_185
+  - first:
+      213: 8252276465057758771
+    second: gambar basket_186
+  - first:
+      213: -3269505589967504672
+    second: gambar basket_187
+  - first:
+      213: 1904990062615279977
+    second: gambar basket_188
+  - first:
+      213: 3163085922187191062
+    second: gambar basket_189
+  - first:
+      213: -764721605699203042
+    second: gambar basket_190
+  - first:
+      213: 1493466109358983812
+    second: gambar basket_191
+  - first:
+      213: -9103283151837323746
+    second: gambar basket_192
+  - first:
+      213: -4249802327529438520
+    second: gambar basket_193
+  - first:
+      213: -5354207850002319566
+    second: gambar basket_194
+  - first:
+      213: 189199850033211502
+    second: gambar basket_195
+  - first:
+      213: -784922507650909231
+    second: gambar basket_196
+  - first:
+      213: -1470112317775782309
+    second: gambar basket_197
+  - first:
+      213: 8970854436565537001
+    second: gambar basket_198
+  - first:
+      213: -3922845120416441591
+    second: gambar basket_199
+  - first:
+      213: 884015570723631719
+    second: gambar basket_200
+  - first:
+      213: 718841913322717283
+    second: gambar basket_201
+  - first:
+      213: -5797232209536182721
+    second: gambar basket_202
+  - first:
+      213: -7259514280577787264
+    second: gambar basket_203
+  - first:
+      213: -763396385113313528
+    second: gambar basket_204
+  - first:
+      213: -5799718604024669063
+    second: gambar basket_205
+  - first:
+      213: -5255849709239131935
+    second: gambar basket_206
+  - first:
+      213: -795989212873172773
+    second: gambar basket_207
+  - first:
+      213: -995919732030578061
+    second: gambar basket_208
+  - first:
+      213: 9199195696328812603
+    second: gambar basket_209
+  - first:
+      213: 2665338280364122178
+    second: gambar basket_210
+  - first:
+      213: -8417471016656237736
+    second: gambar basket_211
+  - first:
+      213: 3400962370668421166
+    second: gambar basket_212
+  - first:
+      213: 4804525218203076476
+    second: gambar basket_213
+  - first:
+      213: 6527573154297361897
+    second: gambar basket_214
+  - first:
+      213: -3944420237733016249
+    second: gambar basket_215
+  - first:
+      213: -6521093533069665837
+    second: gambar basket_216
+  - first:
+      213: -5279765056172827462
+    second: gambar basket_217
+  - first:
+      213: 1988938265557693929
+    second: gambar basket_218
+  - first:
+      213: 6487461574346181936
+    second: gambar basket_219
+  - first:
+      213: -4430697074604888519
+    second: gambar basket_220
+  - first:
+      213: 7933379937019769348
+    second: gambar basket_221
+  - first:
+      213: 3578153552774052604
+    second: gambar basket_222
+  - first:
+      213: -5665068424076980756
+    second: gambar basket_223
+  - first:
+      213: 2203619554152009918
+    second: gambar basket_224
+  - first:
+      213: 2144917587503122413
+    second: gambar basket_225
+  - first:
+      213: -6315958720390252943
+    second: gambar basket_226
+  - first:
+      213: 6990388762053400800
+    second: gambar basket_227
+  - first:
+      213: -4281293048358011088
+    second: gambar basket_228
+  - first:
+      213: 1525637634047199758
+    second: gambar basket_229
+  - first:
+      213: -7499155664946794069
+    second: gambar basket_230
+  - first:
+      213: 8983890704582321445
+    second: gambar basket_231
+  - first:
+      213: -7322603718816228006
+    second: gambar basket_232
+  - first:
+      213: 3741393356550150176
+    second: gambar basket_233
+  - first:
+      213: 8260583721957866751
+    second: gambar basket_234
+  - first:
+      213: 2381291402527501002
+    second: gambar basket_235
+  - first:
+      213: 2307329806367424930
+    second: gambar basket_236
+  - first:
+      213: -4069778619556827748
+    second: gambar basket_237
+  - first:
+      213: 5695952349659803272
+    second: gambar basket_238
+  - first:
+      213: -5827339962038523073
+    second: gambar basket_239
+  - first:
+      213: 4812359824946066011
+    second: gambar basket_240
+  - first:
+      213: 8611602703940885239
+    second: gambar basket_241
+  - first:
+      213: -1124180525294628281
+    second: gambar basket_242
+  - first:
+      213: -6255371303880628144
+    second: gambar basket_243
+  - first:
+      213: 3288064255255098871
+    second: gambar basket_244
+  - first:
+      213: 800873454480948052
+    second: gambar basket_245
+  - first:
+      213: -1919394906425508009
+    second: gambar basket_246
+  - first:
+      213: 918268378242255077
+    second: gambar basket_247
+  - first:
+      213: 2606292594525206431
+    second: gambar basket_248
+  - first:
+      213: 1609019334233837707
+    second: gambar basket_249
+  - first:
+      213: -1666418938718276040
+    second: gambar basket_250
+  - first:
+      213: -2277926660289990600
+    second: gambar basket_251
+  - first:
+      213: -621345362361768989
+    second: gambar basket_252
+  - first:
+      213: 6843173458111718978
+    second: gambar basket_253
+  - first:
+      213: 5398560120733524761
+    second: gambar basket_254
+  - first:
+      213: -5718160384852366287
+    second: gambar basket_255
+  - first:
+      213: -119134090799069659
+    second: gambar basket_256
+  - first:
+      213: 8861658043965539443
+    second: gambar basket_257
+  - first:
+      213: 7918331790285990243
+    second: gambar basket_258
+  - first:
+      213: -4296747148435869914
+    second: gambar basket_259
+  - first:
+      213: 5148785352941981530
+    second: gambar basket_260
+  - first:
+      213: 7433708285068950555
+    second: gambar basket_261
+  - first:
+      213: 1068243777977898334
+    second: gambar basket_262
+  - first:
+      213: 1840138856430951896
+    second: gambar basket_263
+  - first:
+      213: 8841605714365657606
+    second: gambar basket_264
+  - first:
+      213: 4357298105430304464
+    second: gambar basket_265
+  - first:
+      213: -4383310269512961248
+    second: gambar basket_266
+  - first:
+      213: 8769424825482032134
+    second: gambar basket_267
+  - first:
+      213: 80271786330864984
+    second: gambar basket_268
+  - first:
+      213: 6688278446010491176
+    second: gambar basket_269
+  - first:
+      213: -7399090230536529830
+    second: gambar basket_270
+  - first:
+      213: -2901419383177278196
+    second: gambar basket_271
+  - first:
+      213: 4164336835800556039
+    second: gambar basket_272
+  - first:
+      213: 6343362541229903591
+    second: gambar basket_273
+  - first:
+      213: 3586256311868628907
+    second: gambar basket_274
+  - first:
+      213: -6729847042130742196
+    second: gambar basket_275
+  - first:
+      213: -7344236317730596742
+    second: gambar basket_276
+  - first:
+      213: -1501232495136385717
+    second: gambar basket_277
+  - first:
+      213: 3760262285872972560
+    second: gambar basket_278
+  - first:
+      213: -4387281998262242534
+    second: gambar basket_279
+  - first:
+      213: -2740766928082640569
+    second: gambar basket_280
+  - first:
+      213: -583355169042207053
+    second: gambar basket_281
+  - first:
+      213: 7940951802449075131
+    second: gambar basket_282
+  - first:
+      213: 1452972869065323855
+    second: gambar basket_283
+  - first:
+      213: -276373693650934950
+    second: gambar basket_284
+  - first:
+      213: -7440642013416649758
+    second: gambar basket_285
+  - first:
+      213: -5418929478565859923
+    second: gambar basket_286
+  - first:
+      213: 2245844369111109557
+    second: gambar basket_287
+  - first:
+      213: 5288380755456714314
+    second: gambar basket_288
+  - first:
+      213: 8393123416765940781
+    second: gambar basket_289
+  - first:
+      213: 4834912103514166526
+    second: gambar basket_290
+  - first:
+      213: -8656939268057597053
+    second: gambar basket_291
+  - first:
+      213: -5485088930658479279
+    second: gambar basket_292
+  - first:
+      213: -8189497882931143464
+    second: gambar basket_293
+  - first:
+      213: -2604255562537957331
+    second: gambar basket_294
+  - first:
+      213: 2760815415549192003
+    second: gambar basket_295
+  - first:
+      213: -6401788561167988896
+    second: gambar basket_296
+  - first:
+      213: -543071623533635309
+    second: gambar basket_297
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gambar basket_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 426
+        width: 335
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca4f20ed8bbc2d0800000000000000
+      internalID: -3257306641800582038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gambar basket_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 162
+        width: 1652
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c62bd336c94bce0800000000000000
+      internalID: -1390314434899842016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
